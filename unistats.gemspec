@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'unistats'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2012-10-14'
   s.summary     = "An API library for UK higher education data"
   s.description = "An API for accessing the Unistats API, which provides data from the Higher Education Funding Council for England on further education."
@@ -10,5 +10,4 @@ Gem::Specification.new do |s|
   s.homepage    =
     'https://github.com/timrogers/unistats'
   s.add_runtime_dependency 'httparty'
-  s.add_runtime_dependency 'json'
 end
