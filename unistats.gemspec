@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'Unistats'
+  s.name        = 'unistats'
   s.version     = '1.0.0'
   s.date        = '2012-10-14'
   s.summary     = "An API library for UK higher education data"
